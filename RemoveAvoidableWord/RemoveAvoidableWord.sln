@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindFrequency", "FindFrequency\FindFrequency.csproj", "{C8378B78-ADB2-4028-AC3F-A15FF8F75C37}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveAvoidableWord", "RemoveAvoidableWord\RemoveAvoidableWord.csproj", "{27F9AE8B-1EB4-4DC2-85F5-B5264349125A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C8378B78-ADB2-4028-AC3F-A15FF8F75C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C8378B78-ADB2-4028-AC3F-A15FF8F75C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C8378B78-ADB2-4028-AC3F-A15FF8F75C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C8378B78-ADB2-4028-AC3F-A15FF8F75C37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27F9AE8B-1EB4-4DC2-85F5-B5264349125A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F9AE8B-1EB4-4DC2-85F5-B5264349125A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F9AE8B-1EB4-4DC2-85F5-B5264349125A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F9AE8B-1EB4-4DC2-85F5-B5264349125A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8BA25523-DB8A-40FF-9188-93D1FB66DA5E}
+		SolutionGuid = {61A3C7A2-BE96-4671-B1DE-1B8563DC0FDB}
 	EndGlobalSection
 EndGlobal
